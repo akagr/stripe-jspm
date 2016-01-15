@@ -15,7 +15,6 @@
     "homepage": "https://github.com/akagr/stripe-jspm",
     "jspm": {
         "jspmNodeConversion": false,
-        "format": "es6",
         "dependencies": {
             "jquery": "npm:jquery@^2.2.0"
         },
