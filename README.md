@@ -1,6 +1,6 @@
 # stripe-jspm
 
-This is a simple wrapper over [stripe.js](https://stripe.com/docs/stripe.js) to allow installation and importing it in apps using jspm. Currently it exposes a global called Stripe which is not very jspm-ish. However that's coming from stripe.js. I plan to make it into a full es6-module.
+This is a simple wrapper over [stripe.js](https://stripe.com/docs/stripe.js) to allow installation and importing it in apps using jspm. Currently it exposes a global called Stripe which is not very jspm-ish. However that's coming from stripe.js.
 
 It can be installed as:
 
